@@ -2,7 +2,7 @@
 	"name": "CaptainSupplyDropFix",
 	"authorName": "Gorakh",
 	"displayName": "Captain Supply Drop Fix",
-	"version_number": "1.0.0",
+	"version_number": "1.0.1",
 	"website_url": "https://github.com/Goorakh/CaptainBeaconFix",
 	"description": "Fixes Captain beacons not being usable in the first stage of the first run after starting the game",
 	"dependencies": [
